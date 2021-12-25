@@ -1,0 +1,40 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #1d2026;
+}
+
+.jumbotron h1 {
+  color: #fff;
+}
+
+#projects {
+  background-color: #1d2026;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.control {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 150px;
+}
+
+.control .line {
+  width: 250px;
+  height: 4px;
+  background: #fff;
+  margin: 0 20px;
+  border-radius: 2px;
+}
+
+.control .line span {
+  width: 50%;
+  height: 8px;
+  margin-top: -2px;
+  border-radius: 4px;
+  background: #00986f;
+  display: block;
+}
